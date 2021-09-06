@@ -1,0 +1,9 @@
+demo/fileuploaddownload/repositories/BankDetailsRepository.class
+demo/fileuploaddownload/property/FileStorageProperties.class
+demo/fileuploaddownload/controller/FileController.class
+demo/fileuploaddownload/model/BankMaster.class
+demo/fileuploaddownload/config/AerospikeConfig.class
+demo/fileuploaddownload/config/AerospikeNode.class
+demo/fileuploaddownload/service/FileStorage.class
+demo/fileuploaddownload/service/FileStorageImpl.class
+demo/fileuploaddownload/FileUploadDownloadApplication.class

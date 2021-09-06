@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    default: dev
+  servlet:
+    multipart:
+      file-size-threshold: 2KB
+      max-file-size: 200MB
+      max-request-size: 215MB
+      enabled: true
+
+aerospike:
+  nodes:
+    -
+      host: 172.17.0.2
+      port: 3000
+  namespace: demo
+  cvvTtl: 600
+
+server:
+  port: 8090
+  session:
+    store-type: none
+
+file:
+  uploadDir: file-repository

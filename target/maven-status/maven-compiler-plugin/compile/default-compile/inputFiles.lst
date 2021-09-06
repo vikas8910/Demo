@@ -1,0 +1,9 @@
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/property/FileStorageProperties.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/config/AerospikeNode.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/service/FileStorage.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/controller/FileController.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/config/AerospikeConfig.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/service/FileStorageImpl.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/repositories/BankDetailsRepository.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/FileUploadDownloadApplication.java
+/home/techbulls/Desktop/relay-aerospike-latest/relay/src/main/java/demo/fileuploaddownload/model/BankMaster.java
